@@ -3,75 +3,89 @@
 <h1 align="center">Hi 👋, I'm Venkata Jainendrababu Vanamala</h1>
 <h3 align="center">Cloud Engineer at SmartIMS | DevOps & Cloud Automation Enthusiast</h3>
 
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*VMmvImch6VU5pc2VktY1uw.gif">
-
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/venkatajainendra?tab=repositories)  
-- 📫 Reach me via email: **venkata.jainendrababu@gmail.com**  
-- 📄 Download my resume: [PDF](https://github.com/Nagarjunareddy4/Nagarjunareddy4/blob/main/Nagarjunareddy_09-08-2001.pdf)  
-- ⚡ Fun fact: The first ever commit on GitHub was on October 19, 2007, by Chris Wanstrath. The commit message was ‘first post’!
+<img align="right" alt="coding" width="380" src="https://miro.medium.com/v2/resize:fit:1400/1*VMmvImch6VU5pc2VktY1uw.gif">
 
 ---
 
-### 🌐 About Me
-I am a **Cloud Engineer at SmartIMS**, passionate about **Cloud Infrastructure, CI/CD, Automation, and Monitoring**.  
-I specialize in providing **scalable cloud infrastructure**, implementing **automation via Terraform**, and managing **CI/CD pipelines** for various projects. I also have hands-on experience with **domain, SSL management**, and multi-cloud environments (AWS & Azure).  
+## 🌐 About Me
 
-I continuously explore new technologies and best practices to optimize cloud deployments and operational efficiency.
+I am a **Cloud & DevOps Engineer**, passionate about **Cloud Infrastructure, DevOps practices, CI/CD, Automation, and Monitoring**.
 
----
+I specialize in designing and delivering **scalable cloud infrastructure**, implementing **Infrastructure as Code using Terraform**, and building and managing **CI/CD pipelines** for multiple projects. I have strong hands-on experience with **domain management, DNS, SSL/TLS**, and **multi-cloud environments (AWS & Azure)**.
 
-### ☁️ Cloud Platforms & Services
-- **Amazon Web Services (AWS):** EC2, Lambda, S3, EBS, RDS, VPC, Route53, IAM, CloudWatch, CloudTrail  
-- **Microsoft Azure:** Virtual Machines, Azure AD, Storage Accounts, Networking (VNet, NSG), Monitoring & Alerts, ARM Templates, Azure CLI  
+I continuously explore new technologies and DevOps best practices to improve **deployment reliability, automation, and operational efficiency**.
 
 ---
 
-### ⚙️ DevOps & Automation
-- **Infrastructure as Code:** Terraform, ARM Templates  
-- **CI/CD Pipelines:** GitHub Actions, Azure DevOps, Jenkins  
-- **Containerization & Orchestration:** Docker, Kubernetes  
-- **Monitoring & Logging:** Prometheus, Grafana, CloudWatch  
+## ☁️ Cloud Platforms & Services
+
+- **Amazon Web Services (AWS)**  
+  EC2, IAM, S3, VPC, RDS, Route53, CloudWatch
+
+- **Microsoft Azure**  
+  Virtual Machines, Azure AD, Storage Accounts, Networking (VNet, NSG), Monitoring & Alerts
 
 ---
 
-### 💻 Languages & Tools
+## ⚙️ DevOps & Automation
+
+- Infrastructure as Code: **Terraform**
+- CI/CD Pipelines: **GitHub Actions, Azure DevOps**
+- Containerization: **Docker**
+- Container Orchestration: **Kubernetes**
+- Version Control: **Git & GitHub**
+- Monitoring & Operational Support
+
+---
+
+## 🌐 Networking, DNS & Security
+
+- Domain & DNS Management
+- SSL/TLS Certificate Installation, Renewal & Troubleshooting
+- Email Security: SPF, DKIM, DMARC
+
+---
+
+## 🧰 Languages & Tools
+
 <p align="left">
-  <a href="https://www.w3schools.com/git/default.asp" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" width="40" height="40"/> 
-  </a> 
-  <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a>
-  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/>
-  </a>
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aws/aws-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40"/>
 </p>
 
 ---
 
-### 🏆 Additional Expertise
-- **WordPress Development** – Designing, customizing, and managing websites  
-- **Digital Marketing** – SEO, content strategy, and social media optimization  
+## 📂 Projects
 
-*(Presented as complementary expertise aligned with professional growth.)*
+👨‍💻 All of my projects are available here:  
+👉 **https://github.com/venkatajainendra?tab=repositories**
 
 ---
 
-### 📫 Connect with Me
+## 📄 Resume
+
+📌 View my resume here:  
+👉 **https://github.com/Nagarjunareddy4/Nagarjunareddy4/blob/main/Nagarjunareddy_09-08-2001.pdf**
+
+---
+
+## 🤝 Connect With Me
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/venkata-jainendrababu-vanamala/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://github.com/venkatajainendra" target="blank">
-    <img align="center" src="https://w7.pngwing.com/pngs/646/324/png-transparent-github-computer-icons-github-logo-monochrome-head-thumbnail.png" alt="GitHub" height="30" width="40" />
-  </a>
+<a href="https://www.linkedin.com/in/venkata-jainendrababu-vanamala/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>
+<a href="https://github.com/venkatajainendra" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="30" width="40"/>
+</a>
 </p>
+
+---
+
+## ⚡ Fun Fact
+> The first-ever GitHub commit was made in 2007 with the message **“first post”** 🚀
