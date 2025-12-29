@@ -38,6 +38,9 @@ I continuously explore modern DevOps tools and best practices to improve system 
 
 ### 💻 Languages & Tools
 <p align="left">
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  </a>
   <a href="https://www.w3schools.com/git/default.asp" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" width="40" height="40"/> 
   </a> 
