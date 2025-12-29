@@ -1,4 +1,4 @@
-![logo](https://github.com/Nagarjunareddy4/Nagarjunareddy4/blob/main/Linkedin%20Banners.png)
+![logo](https://github.com/venkatajainendra/venkatajainendra/blob/main/banner_image.png)
 
 <h1 align="center">Hi 👋, I'm Venkata Jainendrababu Vanamala</h1>
 <h3 align="center">Cloud Engineer | DevOps Enthusiast | Automation & Infrastructure Specialist</h3>
