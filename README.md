@@ -67,7 +67,6 @@ I continuously explore modern DevOps tools and best practices to improve system 
 - **WordPress Development** – Designing, customizing, and managing websites  
 - **Digital Marketing** – SEO, content strategy, and social media optimization  
 
-*(Presented as complementary expertise aligned with professional growth.)*
 
 ---
 
